@@ -1,5 +1,5 @@
 # Rui_Tang_final_project
-## Please install the pygame module by running: pip install pygame  
+### Please install the pygame module by running: pip install -U pygame==2.6.0 
 Run main.py to start Doro Adventure  
 
 How to play:  
